@@ -1,0 +1,1 @@
+web: gunicorn django_riona.wsgi --log-file -
